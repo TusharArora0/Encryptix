@@ -1,4 +1,4 @@
-"# Encryptix" 
-"# Encryptix" 
-"# Encryptix" 
-"# Encryptix" 
+# ENCRYPTIX INTERNSHIP PROJECTS
+- LANDING PAGE
+- CALCULATOR
+- PORTFOLIO
